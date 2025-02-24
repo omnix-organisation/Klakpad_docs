@@ -8,9 +8,9 @@ This document provides a comprehensive default Chart of Accounts covering major 
 
 ### Current Assets
 
-| **Account Type**  | **Account Name**                      | **Description**                                               |
+| **Account Type**  | **Account Name(subcategories)**                      | **Description**                                               |
 |-------------------|---------------------------------------|---------------------------------------------------------------|
-| Current Assets    | Cash and Cash Equivalents             | Petty Cash, Checking Account, Savings Account                 |
+| Current Assets    | Cash (Cash & Cash Equivalent)             | Petty Cash, Checking Account, Savings Account                 |
 |                   | Accounts Receivable                   | Trade Receivables, Other Receivables                          |
 |                   | Inventory                             | Raw Materials, Work-in-Process, Finished Goods                  |
 |                   | Prepaid Expenses                      | Prepaid Rent, Prepaid Insurance                               |
